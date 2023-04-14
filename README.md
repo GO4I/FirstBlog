@@ -1,0 +1,2 @@
+# FirstBlog
+Блог на RoR
